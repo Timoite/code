@@ -78,7 +78,7 @@ conda create -n book python=3.8
 2. 环境建立成功后激活环境:
 
 ```bash
-conda acrtivate book
+conda activate book
 ```
 
 3. 安装依赖项
@@ -216,3 +216,4 @@ cd ..
 mkdir seg_pred
 ./build/trt_inference
 ```
+
